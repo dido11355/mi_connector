@@ -968,4 +968,3 @@ def chartHumidity() {
     	processImage(response, "humidity")
     }
 }
-
